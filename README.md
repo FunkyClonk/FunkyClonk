@@ -7,4 +7,3 @@ Still learning random stuff about IT and cybersecurity.
 > 💼 **Portfolio** — Here you can find my portfolio for more infos  :
 > 👉 [funkyclonk.vercel.app](https://funkyclonk.vercel.app/)
 ---
-Here you may find projects that I do to learn by doing.
